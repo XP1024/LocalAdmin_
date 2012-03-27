@@ -1,0 +1,16 @@
+name: LocalAdmin
+main: me.XP1024.LocalAdmin.BukkitStarter
+version: 0.1
+website: 
+author: XP1024
+
+softdepends: []
+description: >
+             Administrate your server with a local client
+commands:
+  version:
+    description: Gives you the version of the installed server plugin
+    aliases: []
+    usage: |
+           /<command>
+
